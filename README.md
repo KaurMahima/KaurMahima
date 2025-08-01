@@ -9,22 +9,12 @@ I am interested in:
 - Automating repetitive tasks 🔁
 - Learning how to build reliable, end-to-end data pipelines 📊
 
-## 🛠 Tools I’ve Been Using
-
-**Languages & Scripting**  
-Python · SQL · Bash
-
-**Data & Storage**  
-DuckDB · Parquet · YAML · Pandas · PyYAML
-
-**Workflow & Automation**  
-Snakemake · Logging · Slurm
-
-**Version Control**  
-Git · GitHub
-
-**Other**  
-Jupyter Notebooks · Markdown · APIs (`requests`) · LaTeX
-
+### 🛠 My Toolkit 
+**Languages**: Python · SQL · Bash  · R
+**Data Tools**: DuckDB · Parquet · YAML · Pandas  
+**Workflow**: Snakemake · Logging · Slurm  
+**Utilities and Development**: Git · GitHub · Jupyter · Markdown  · VSCode 
+**Web & APIs**: Flask · Python requests · JSON · cURL
+**Learning**: dbt · Dagster · Polars · PyTask · Docker
 
 Thanks for visiting!
