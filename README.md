@@ -10,11 +10,11 @@ I am interested in:
 - Learning how to build reliable, end-to-end data pipelines 📊
 
 ### 🛠 My Toolkit 
-**Languages**: Python · SQL · Bash  · R
+**Languages**: Python · SQL · Bash · R  
 **Data Tools**: DuckDB · Parquet · YAML · Pandas  
 **Workflow**: Snakemake · Logging · Slurm  
-**Utilities and Development**: Git · GitHub · Jupyter · Markdown  · VSCode 
-**Web & APIs**: Flask · Python requests · JSON · cURL
+**Utilities & Development**: Git · GitHub · Jupyter · Markdown · VS Code  
+**Web & APIs**: Flask · Python requests · JSON · cURL  
 **Learning**: dbt · Dagster · Polars · PyTask · Docker
 
 Thanks for visiting!
